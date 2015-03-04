@@ -1,0 +1,3 @@
+[01-Feb-2015 01:14:25 Asia/Krasnoyarsk] PHP Fatal error:  Call to undefined function page_manager_handler_check_machine_name() in /home/hsv59ce4/public_html/dev/includes/form.inc on line 3626
+[12-Feb-2015 18:05:56 Asia/Krasnoyarsk] PHP Fatal error:  Unsupported operand types in /home/hsv59ce4/public_html/dev/sites/all/modules/ctools/page_manager/plugins/tasks/page.admin.inc on line 257
+[12-Feb-2015 18:06:18 Asia/Krasnoyarsk] PHP Fatal error:  Unsupported operand types in /home/hsv59ce4/public_html/dev/sites/all/modules/ctools/page_manager/plugins/tasks/page.admin.inc on line 257
